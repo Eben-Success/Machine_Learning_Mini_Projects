@@ -12,7 +12,7 @@ The objective of K means clustering is to group similar data points together and
 * Again, re-cluster every point based on their distance with centroid.
 * Again adjst centroids.
 
-### ALGORI METHOD
+### ELBOW METHOD
 
 * Sum of Squared Error
 
