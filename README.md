@@ -1,13 +1,5 @@
 # Machine Learning Mini Projects
 
-## Table of Contents
-
-- [Description](#description)
-- [Technologies](#technologies)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Documentation](#documentation)
-
 ## Description
 
 These repo consists of  mini projects that focus on the fundamentals of machine learning.
