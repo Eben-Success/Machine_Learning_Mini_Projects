@@ -22,9 +22,9 @@ These repo consists of  mini projects that focus on the fundamentals of machine 
 
 ## Projects
 
-1. **Linear Regression**
-2. **Gradient Descent**
-3.  **Saving Model**
+1. **![Linear Regression](https://github.com/Eben-Success/Machine_Learning_Mini_Projects/tree/master/1.%20Linear%20Regression)**
+2. **![Gradient Descent](https://github.com/Eben-Success/Machine_Learning_Mini_Projects/tree/master/2.%20Gradient%20Descent)**
+3.  **![]Saving Model**
 4.  **Labelling**
 5.  **train_test_split**
 6.  **logistic_regression**
