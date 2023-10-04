@@ -5,11 +5,11 @@
 These repo consists of  mini projects that focus on the fundamentals of machine learning.
 
 ## Technologies
-`seaborn` for visualization
-`matplotlib` for visualization
-`pandas` for data manipulations
-`numpy` for numeric compuptations
-`sklearn` for machine learning models
+`seaborn` for visualization <br>
+`matplotlib` for visualization <br>
+`pandas` for data manipulations <br>
+`numpy` for numeric compuptations <br>
+`sklearn` for machine learning models <br>
 
 
 ## Projects
